@@ -1,0 +1,301 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Product_Name,Category,Quantity,Unit_Price,Total_Amount,City,Payment_Method,Order_Status
+ORD1001,12-03-2026,CUST108,Neha Pawar,Backpack,Accessories,1,1629,1629,Nashik,UPI,Returned
+ORD1002,19-04-2026,CUST102,Aarav Sharma,Water Bottle,Accessories,5,642.17,3210.85,Pune,Credit Card,Completed
+ORD1003,20-02-2026,CUST118,Riya Desai,Notebook,Stationery,5,108.64,543.2,Nagpur,Cash,Cancelled
+ORD1004,10-02-2026,CUST114,Karan Mehta,Mouse,Electronics,1,946.59,946.59,Aurangabad,Credit Card,Completed
+ORD1005,08-04-2026,CUST104,Isha Gupta,Shoes,Fashion,3,2945.41,8836.23,Thane,Net Banking,Completed
+ORD1006,18-05-2026,CUST104,Siddharth Patil,Shoes,Fashion,1,3347.03,3347.03,Pune,Net Banking,Completed
+ORD1007,03-04-2026,CUST119,Aditya More,T-Shirt,Fashion,5,969.38,4846.9,Pune,UPI,Returned
+ORD1008,07-08-2026,CUST108,Sneha Kulkarni,Keyboard,Electronics,3,1974.68,5924.04,Navi Mumbai,Debit Card,Completed
+ORD1009,01-04-2026,CUST107,Rahul Jadhav,Backpack,Accessories,3,1678.56,5035.68,Pune,Net Banking,Returned
+ORD1010,11-02-2026,CUST115,Siddharth Patil,Headphones,Electronics,5,2614.56,13072.8,Aurangabad,Net Banking,Completed
+ORD1011,18-07-2026,CUST102,Neha Pawar,Backpack,Accessories,3,1923.43,5770.29,Mumbai,Debit Card,Completed
+ORD1012,30-08-2026,CUST119,Karan Mehta,Mouse,Electronics,1,847.98,847.98,Nagpur,Cash,Completed
+ORD1013,05-02-2026,CUST108,Kavya Joshi,Jeans,Fashion,4,2042.86,8171.44,Aurangabad,Net Banking,Completed
+ORD1014,26-02-2026,CUST105,Nikhil Pawar,Jeans,Fashion,5,2155.74,10778.7,Kolhapur,UPI,Completed
+ORD1015,10-02-2026,CUST114,Tanvi Shah,T-Shirt,Fashion,1,837.51,837.51,Pune,Cash,Completed
+ORD1016,22-05-2026,CUST101,Sneha Kulkarni,Pen Set,Stationery,4,251.46,1005.84,Aurangabad,Debit Card,Completed
+ORD1017,01-01-2026,CUST109,Nikhil Pawar,Mouse,Electronics,4,838.47,3353.88,Nashik,Net Banking,Completed
+ORD1018,10-05-2026,CUST120,Aditya More,T-Shirt,Fashion,3,961.5,2884.5,Nashik,Debit Card,Completed
+ORD1019,03-06-2026,CUST111,Mansi Kulkarni,Notebook,Stationery,5,130.04,650.2,Mumbai,UPI,Completed
+ORD1020,03-03-2026,CUST119,Rohan Deshmukh,Jeans,Fashion,3,2085.36,6256.08,Pune,Cash,Completed
+ORD1021,02-02-2026,CUST116,Kavya Joshi,Shoes,Fashion,5,3370.13,16850.65,Nashik,Debit Card,Cancelled
+ORD1022,24-02-2026,CUST118,Aditya More,T-Shirt,Fashion,5,886.16,4430.8,Aurangabad,Cash,Returned
+ORD1023,13-05-2026,CUST115,Sneha Kulkarni,Backpack,Accessories,3,1777.72,5333.16,Nagpur,Credit Card,Completed
+ORD1024,28-02-2026,CUST119,Neha Pawar,Office Chair,Furniture,1,8650.12,8650.12,Mumbai,UPI,Returned
+ORD1025,20-08-2026,CUST102,Karan Mehta,Backpack,Accessories,1,1702.42,1702.42,Pune,Net Banking,Completed
+ORD1026,03-02-2026,CUST119,Omkar More,Mouse,Electronics,4,848.56,3394.24,Mumbai,Credit Card,Completed
+ORD1027,25-01-2026,CUST114,Isha Gupta,Shoes,Fashion,4,3001.86,12007.44,Navi Mumbai,Cash,Completed
+ORD1028,15-06-2026,CUST104,Ananya Patil,T-Shirt,Fashion,1,931.21,931.21,Navi Mumbai,Debit Card,Completed
+ORD1029,25-04-2026,CUST105,Riya Desai,Keyboard,Electronics,2,1688.48,3376.96,Nashik,Debit Card,Completed
+ORD1030,09-08-2026,CUST118,Sneha Kulkarni,Keyboard,Electronics,1,1779.53,1779.53,Mumbai,Net Banking,Completed
+ORD1031,05-05-2026,CUST116,Aditya More,Smartphone,Electronics,2,26131.34,52262.68,Navi Mumbai,UPI,Completed
+ORD1032,09-03-2026,CUST115,Pooja Chavan,Desk,Furniture,1,13164.74,13164.74,Navi Mumbai,Net Banking,Returned
+ORD1033,17-03-2026,CUST107,Ananya Patil,Water Bottle,Accessories,4,651.67,2606.68,Mumbai,Debit Card,Completed
+ORD1034,24-08-2026,CUST117,Priya Shah,Laptop,Electronics,5,44791.1,223955.5,Mumbai,Net Banking,Completed
+ORD1035,18-01-2026,CUST108,Siddharth Patil,T-Shirt,Fashion,2,822.33,1644.66,Pune,Net Banking,Completed
+ORD1036,21-01-2026,CUST114,Omkar More,Pen Set,Stationery,5,226.99,1134.95,Thane,Debit Card,Completed
+ORD1037,12-04-2026,CUST105,Pooja Chavan,Backpack,Accessories,3,1705.93,5117.79,Kolhapur,Debit Card,Completed
+ORD1038,25-05-2026,CUST104,Rohan Deshmukh,Laptop,Electronics,4,46090.43,184361.72,Nagpur,Net Banking,Completed
+ORD1039,14-08-2026,CUST108,Isha Gupta,Headphones,Electronics,3,2690.43,8071.29,Aurangabad,Credit Card,Completed
+ORD1040,06-06-2026,CUST117,Aarav Sharma,T-Shirt,Fashion,5,936.64,4683.2,Aurangabad,UPI,Completed
+ORD1041,10-07-2026,CUST118,Vivek Joshi,Mouse,Electronics,1,970.15,970.15,Aurangabad,Debit Card,Cancelled
+ORD1042,12-06-2026,CUST109,Nikhil Pawar,Keyboard,Electronics,3,1693.3,5079.9,Kolhapur,Debit Card,Completed
+ORD1043,12-01-2026,CUST101,Karan Mehta,Smartphone,Electronics,4,29844.35,119377.4,Nashik,Debit Card,Completed
+ORD1044,20-04-2026,CUST118,Aarav Sharma,Water Bottle,Accessories,4,707.24,2828.96,Pune,UPI,Returned
+ORD1045,02-08-2026,CUST112,Omkar More,Jeans,Fashion,2,2220.06,4440.12,Nashik,Cash,Completed
+ORD1046,27-08-2026,CUST102,Isha Gupta,Laptop,Electronics,3,43781.86,131345.58,Nagpur,Credit Card,Returned
+ORD1047,15-08-2026,CUST114,Tanvi Shah,Smartphone,Electronics,3,29568.65,88705.95,Nashik,Credit Card,Completed
+ORD1048,07-01-2026,CUST106,Karan Mehta,Shoes,Fashion,2,3444.11,6888.22,Navi Mumbai,Credit Card,Completed
+ORD1049,10-01-2026,CUST116,Neha Pawar,Headphones,Electronics,1,2441.27,2441.27,Nagpur,Cash,Completed
+ORD1050,18-06-2026,CUST107,Siddharth Patil,Mouse,Electronics,2,850.13,1700.26,Thane,Debit Card,Completed
+ORD1051,11-05-2026,CUST113,Kavya Joshi,Shoes,Fashion,3,3104.73,9314.19,Thane,UPI,Completed
+ORD1052,09-03-2026,CUST102,Sneha Kulkarni,Jeans,Fashion,3,2058.57,6175.71,Navi Mumbai,Debit Card,Returned
+ORD1053,11-05-2026,CUST104,Siddharth Patil,Shoes,Fashion,3,3159.29,9477.87,Nagpur,Debit Card,Completed
+ORD1054,25-08-2026,CUST118,Aditya More,Water Bottle,Accessories,4,630.24,2520.96,Thane,Cash,Completed
+ORD1055,19-06-2026,CUST104,Pooja Chavan,Backpack,Accessories,3,1844.34,5533.02,Aurangabad,UPI,Completed
+ORD1056,19-02-2026,CUST114,Siddharth Patil,Desk,Furniture,3,12130.59,36391.77,Nashik,Net Banking,Cancelled
+ORD1057,01-01-2026,CUST110,Pooja Chavan,Mouse,Electronics,4,908.63,3634.52,Nagpur,Cash,Cancelled
+ORD1058,24-04-2026,CUST107,Nikhil Pawar,Pen Set,Stationery,3,248.25,744.75,Kolhapur,Credit Card,Returned
+ORD1059,12-06-2026,CUST120,Karan Mehta,Smartphone,Electronics,3,28086.53,84259.59,Pune,Credit Card,Returned
+ORD1060,07-02-2026,CUST101,Ananya Patil,Mouse,Electronics,2,955.18,1910.36,Nagpur,Cash,Cancelled
+ORD1061,15-08-2026,CUST119,Aditya More,T-Shirt,Fashion,1,891.97,891.97,Navi Mumbai,Cash,Completed
+ORD1062,02-01-2026,CUST104,Riya Desai,Keyboard,Electronics,2,1856.18,3712.36,Nagpur,Credit Card,Returned
+ORD1063,05-03-2026,CUST104,Akash Shinde,Notebook,Stationery,4,109.21,436.84,Nashik,Cash,Returned
+ORD1064,01-09-2026,CUST115,Tanvi Shah,Notebook,Stationery,5,122.29,611.45,Navi Mumbai,Net Banking,Completed
+ORD1065,02-05-2026,CUST115,Rahul Jadhav,Jeans,Fashion,2,2307.21,4614.42,Nagpur,Debit Card,Cancelled
+ORD1066,20-01-2026,CUST110,Neha Pawar,Bookshelf,Furniture,2,6206.98,12413.96,Aurangabad,Debit Card,Completed
+ORD1067,08-02-2026,CUST108,Siddharth Patil,Jeans,Fashion,5,2015.45,10077.25,Nashik,Credit Card,Completed
+ORD1068,30-04-2026,CUST114,Ananya Patil,Desk,Furniture,4,11594.12,46376.48,Nagpur,Cash,Completed
+ORD1069,06-01-2026,CUST119,Siddharth Patil,Jeans,Fashion,5,2396.27,11981.35,Kolhapur,UPI,Completed
+ORD1070,02-08-2026,CUST114,Kavya Joshi,Mouse,Electronics,4,963.62,3854.48,Nagpur,Cash,Completed
+ORD1071,10-04-2026,CUST111,Siddharth Patil,Mouse,Electronics,4,897.42,3589.68,Nashik,Cash,Completed
+ORD1072,11-04-2026,CUST119,Omkar More,Pen Set,Stationery,5,226.35,1131.75,Mumbai,UPI,Returned
+ORD1073,16-02-2026,CUST102,Rahul Jadhav,Desk,Furniture,2,12880.44,25760.88,Navi Mumbai,Debit Card,Completed
+ORD1074,14-08-2026,CUST113,Rahul Jadhav,Bookshelf,Furniture,3,6288.75,18866.25,Navi Mumbai,Debit Card,Completed
+ORD1075,14-01-2026,CUST112,Neha Pawar,Bookshelf,Furniture,1,6823.73,6823.73,Pune,UPI,Completed
+ORD1076,09-06-2026,CUST105,Neha Pawar,Keyboard,Electronics,2,1922.12,3844.24,Nashik,Cash,Returned
+ORD1077,30-04-2026,CUST109,Isha Gupta,Smartphone,Electronics,5,30507.44,152537.2,Nashik,Net Banking,Cancelled
+ORD1078,11-02-2026,CUST110,Sneha Kulkarni,Water Bottle,Accessories,1,738.89,738.89,Mumbai,Debit Card,Cancelled
+ORD1079,03-07-2026,CUST107,Rohan Deshmukh,Backpack,Accessories,4,1762.8,7051.2,Nagpur,UPI,Returned
+ORD1080,03-06-2026,CUST104,Omkar More,Shoes,Fashion,3,3424.19,10272.57,Mumbai,Debit Card,Cancelled
+ORD1081,15-06-2026,CUST111,Aarav Sharma,Desk,Furniture,3,10965.5,32896.5,Navi Mumbai,Cash,Completed
+ORD1082,01-08-2026,CUST115,Vivek Joshi,Desk,Furniture,3,12325.4,36976.2,Navi Mumbai,Credit Card,Returned
+ORD1083,24-08-2026,CUST118,Mansi Kulkarni,Notebook,Stationery,3,122.78,368.34,Kolhapur,Cash,Returned
+ORD1084,04-03-2026,CUST103,Rahul Jadhav,Pen Set,Stationery,3,241.12,723.36,Kolhapur,Credit Card,Completed
+ORD1085,28-03-2026,CUST101,Mansi Kulkarni,Pen Set,Stationery,5,258.41,1292.05,Thane,Credit Card,Completed
+ORD1086,29-03-2026,CUST109,Tanvi Shah,Keyboard,Electronics,3,1907.22,5721.66,Aurangabad,Net Banking,Completed
+ORD1087,04-07-2026,CUST114,Mansi Kulkarni,Notebook,Stationery,2,110.05,220.1,Nagpur,Cash,Returned
+ORD1088,05-01-2026,CUST103,Pooja Chavan,Water Bottle,Accessories,4,692.74,2770.96,Nagpur,Cash,Returned
+ORD1089,05-04-2026,CUST116,KAVYA JOSHI,Keyboard,Electronics,3,1859.03,5577.09,Thane,Cash,Returned
+ORD1090,27-04-2026,CUST109,Pooja Chavan,Notebook,Stationery,3,116.44,349.32,Aurangabad,Credit Card,Completed
+ORD1091,10-07-2026,CUST118,Priya Shah,Water Bottle,Accessories,2,674.18,1348.36,Nagpur,Credit Card,Returned
+ORD1092,14-07-2026,CUST117,Tanvi Shah,Bookshelf,Furniture,3,6791.96,20375.88,Aurangabad,UPI,Completed
+ORD1093,19-03-2026,CUST101,Kavya Joshi,Mouse,Electronics,2,874.96,1749.92,Nashik,Debit Card,Completed
+ORD1094,30-08-2026,CUST105,Mansi Kulkarni,Laptop,Electronics,5,43129.23,215646.15,Pune,UPI,Cancelled
+ORD1095,29-03-2026,CUST106,Ananya Patil,Mouse,Electronics,4,896.17,3584.68,Aurangabad,Cash,Completed
+ORD1096,19-01-2026,CUST119,Ananya Patil,T-Shirt,Fashion,1,882.13,882.13,Nashik,Credit Card,Cancelled
+ORD1097,31-01-2026,CUST118,Riya Desai,Mouse,Electronics,1,988.91,988.91,Nagpur,Net Banking,Completed
+ORD1098,31-05-2026,CUST114,Pooja Chavan,Bookshelf,Furniture,4,6236.56,24946.24,Mumbai,Net Banking,Returned
+ORD1099,09-03-2026,CUST103,Priya Shah,Smartphone,Electronics,2,28702.88,57405.76,Nagpur,Credit Card,Cancelled
+ORD1100,26-04-2026,CUST120,Mansi Kulkarni,Smartphone,Electronics,2,25214.98,50429.96,Aurangabad,UPI,Completed
+ORD1101,27-04-2026,CUST103,Neha Pawar,Mouse,Electronics,3,936.54,2809.62,Aurangabad,Net Banking,Returned
+ORD1102,20-05-2026,CUST108,Vivek Joshi,Shoes,Fashion,2,3152.09,6304.18,Aurangabad,Credit Card,Completed
+ORD1103,02-06-2026,CUST119,Pooja Chavan,Laptop,Electronics,2,47633.66,95267.32,Kolhapur,UPI,Completed
+ORD1104,30-08-2026,CUST109,Nikhil Pawar,Water Bottle,Accessories,3,727.96,2183.88,Kolhapur,Cash,Completed
+ORD1105,08-07-2026,CUST111,Tanvi Shah,Pen Set,Stationery,1,269.47,269.47,Aurangabad,UPI,Completed
+ORD1106,06-01-2026,CUST109,Omkar More,Keyboard,Electronics,5,1831.36,9156.8,Mumbai,Credit Card,Completed
+ORD1107,16-02-2026,CUST119,Riya Desai,Notebook,Stationery,4,129.99,519.96,Kolhapur,UPI,Completed
+ORD1108,21-06-2026,CUST104,Priya Shah,Office Chair,Furniture,4,8216.62,32866.48,Thane,Cash,Returned
+ORD1109,13-04-2026,CUST118,Ananya Patil,Bookshelf,Furniture,3,6711.36,20134.08,Kolhapur,UPI,Completed
+ORD1110,17-07-2026,CUST113,Nikhil Pawar,Mouse,Electronics,3,830.87,2492.61,Mumbai,Net Banking,Completed
+ORD1111,03-04-2026,CUST120,Mansi Kulkarni,Desk,Furniture,1,11250.2,11250.2,Kolhapur,UPI,Completed
+ORD1112,15-03-2026,CUST115,Mansi Kulkarni,Mouse,Electronics,5,833.58,4167.9,Pune,UPI,Returned
+ORD1113,21-03-2026,CUST118,Aarav Sharma,Pen Set,Stationery,2,260.49,520.98,Navi Mumbai,UPI,Completed
+ORD1114,31-01-2026,CUST105,Mansi Kulkarni,T-Shirt,Fashion,1,893.06,893.06,Aurangabad,Net Banking,Returned
+ORD1115,01-05-2026,CUST108,Akash Shinde,Mouse,Electronics,4,960.25,3841,Nashik,Cash,Completed
+ORD1116,14-08-2026,CUST105,Rohan Deshmukh,Jeans,Fashion,5,2203.63,11018.15,Aurangabad,Cash,Completed
+ORD1117,01-01-2026,CUST110,Pooja Chavan,Jeans,Fashion,5,2097.56,10487.8,Kolhapur,Credit Card,Completed
+ORD1118,22-05-2026,CUST118,Siddharth Patil,Notebook,Stationery,4,116.28,465.12,Kolhapur,Debit Card,Completed
+ORD1119,01-03-2026,CUST114,Ananya Patil,Water Bottle,Accessories,2,710.05,1420.1,Thane,Cash,Returned
+ORD1120,19-06-2026,CUST105,Mansi Kulkarni,Jeans,Fashion,4,2149.87,8599.48,Mumbai,Credit Card,Cancelled
+ORD1121,12-08-2026,CUST115,Sneha Kulkarni,Pen Set,Stationery,3,268.49,805.47,Kolhapur,UPI,Returned
+ORD1122,09-02-2026,CUST103,Mansi Kulkarni,Headphones,Electronics,4,2685.47,10741.88,Aurangabad,Debit Card,Cancelled
+ORD1123,07-08-2026,CUST111,Kavya Joshi,Water Bottle,Accessories,4,720.98,2883.92,Navi Mumbai,Debit Card,Returned
+ORD1124,10-01-2026,CUST120,Rohan Deshmukh,Water Bottle,Accessories,4,752.13,3008.52,Nagpur,Debit Card,Completed
+ORD1125,26-01-2026,CUST104,Akash Shinde,Water Bottle,Accessories,1,690.76,690.76,Nashik,Debit Card,Completed
+ORD1126,17-03-2026,CUST112,Isha Gupta,Laptop,Electronics,3,47665.29,142995.87,Navi Mumbai,Credit Card,Completed
+ORD1127,22-07-2026,CUST106,Priya Shah,Notebook,Stationery,4,121.58,486.32,Nashik,UPI,Cancelled
+ORD1128,03-03-2026,CUST116,Omkar More,T-Shirt,Fashion,4,921.55,3686.2,Nashik,Credit Card,Completed
+ORD1129,20-06-2026,CUST101,Akash Shinde,Backpack,Accessories,3,1785.45,5356.35,Aurangabad,Net Banking,Completed
+ORD1130,31-05-2026,CUST110,Riya Desai,Smartphone,Electronics,4,30493.32,121973.28,Aurangabad,Cash,Completed
+ORD1131,28-01-2026,CUST108,Siddharth Patil,Keyboard,Electronics,4,1927.2,7708.8,Thane,Net Banking,Completed
+ORD1132,01-08-2026,CUST113,Rahul Jadhav,Water Bottle,Accessories,3,633.07,1899.21,Mumbai,Net Banking,Returned
+ORD1133,10-07-2026,CUST116,Pooja Chavan,Shoes,Fashion,1,3462.79,3462.79,Nagpur,Net Banking,Completed
+ORD1134,23-06-2026,CUST105,Sneha Kulkarni,Keyboard,Electronics,2,1843.52,3687.04,Mumbai,Debit Card,Completed
+ORD1135,03-02-2026,CUST103,Pooja Chavan,Laptop,Electronics,5,43783.75,218918.75,Thane,Cash,Completed
+ORD1136,13-08-2026,CUST112,Nikhil Pawar,Keyboard,Electronics,2,1903.14,3806.28,Aurangabad,Credit Card,Completed
+ORD1137,17-03-2026,CUST111,Sneha Kulkarni,Jeans,Fashion,4,2405.65,9622.6,Kolhapur,UPI,Completed
+ORD1138,05-07-2026,CUST113,Kavya Joshi,Shoes,Fashion,2,3430.49,6860.98,Thane,UPI,Completed
+ORD1139,27-04-2026,CUST112,Rahul Jadhav,Laptop,Electronics,3,45329.15,135987.45,Navi Mumbai,Debit Card,Completed
+ORD1140,08-06-2026,CUST118,Karan Mehta,Backpack,Accessories,2,1789.73,3579.46,Nagpur,UPI,Returned
+ORD1141,19-03-2026,CUST114,Sneha Kulkarni,T-Shirt,Fashion,4,973.69,3894.76,Nashik,UPI,Completed
+ORD1142,02-03-2026,CUST118,Vivek Joshi,Mouse,Electronics,4,830.9,3323.6,Navi Mumbai,Cash,Completed
+ORD1143,10-07-2026,CUST105,Riya Desai,Backpack,Accessories,5,1770.89,8854.45,Pune,Cash,Cancelled
+ORD1144,05-04-2026,CUST107,Akash Shinde,Desk,Furniture,3,10878.52,32635.56,Kolhapur,Credit Card,Completed
+ORD1145,15-06-2026,CUST112,Ananya Patil,Smartphone,Electronics,3,28249.01,84747.03,Navi Mumbai,Debit Card,Completed
+ORD1146,24-02-2026,CUST120,Aarav Sharma,Smartphone,Electronics,4,25713.37,102853.48,Mumbai,Debit Card,Completed
+ORD1147,01-08-2026,CUST118,Aditya More,Headphones,Electronics,5,2352.6,11763,Nagpur,Credit Card,Completed
+ORD1148,02-06-2026,CUST101,Rahul Jadhav,Shoes,Fashion,2,3384.73,6769.46,Nashik,Credit Card,Cancelled
+ORD1149,10-08-2026,CUST101,Vivek Joshi,Mouse,Electronics,2,829.79,1659.58,Mumbai,Debit Card,Completed
+ORD1150,09-03-2026,CUST102,Vivek Joshi,Pen Set,Stationery,3,225.79,677.37,Navi Mumbai,Net Banking,Completed
+ORD1151,19-07-2026,CUST112,Nikhil Pawar,Water Bottle,Accessories,1,696.67,696.67,Pune,Cash,Cancelled
+ORD1152,20-07-2026,CUST117,Pooja Chavan,Keyboard,Electronics,5,1635.61,8178.05,Kolhapur,UPI,Completed
+ORD1153,28-01-2026,CUST116,Akash Shinde,Bookshelf,Furniture,4,6404.16,25616.64,Pune,UPI,Completed
+ORD1154,12-03-2026,CUST120,Omkar More,Pen Set,Stationery,2,228.28,456.56,Thane,Cash,Cancelled
+ORD1155,04-06-2026,CUST114,Sneha Kulkarni,Notebook,Stationery,3,118.89,356.67,Pune,Net Banking,Returned
+ORD1156,16-08-2026,CUST108,Riya Desai,T-Shirt,Fashion,2,887.41,1774.82,Thane,Cash,Completed
+ORD1157,22-03-2026,CUST109,Isha Gupta,Desk,Furniture,1,11550.12,11550.12,Nashik,Cash,Completed
+ORD1158,25-01-2026,CUST112,Vivek Joshi,Smartphone,Electronics,1,25722.09,25722.09,Mumbai,Net Banking,Cancelled
+ORD1159,16-04-2026,CUST112,Riya Desai,Notebook,Stationery,3,124.08,372.24,Mumbai,Debit Card,Cancelled
+ORD1160,10-05-2026,CUST107,Vivek Joshi,Mouse,Electronics,3,828.65,2485.95,Kolhapur,Credit Card,Completed
+ORD1161,15-07-2026,CUST109,Omkar More,Office Chair,Furniture,5,8274.85,41374.25,Nagpur,Cash,Cancelled
+ORD1162,14-06-2026,CUST118,Aarav Sharma,Shoes,Fashion,5,3272.69,16363.45,Aurangabad,UPI,Completed
+ORD1163,31-03-2026,CUST101,Priya Shah,Mouse,Electronics,3,975.88,2927.64,Nashik,Net Banking,Returned
+ORD1164,12-06-2026,CUST101,Rohan Deshmukh,Desk,Furniture,1,11140.5,11140.5,Nagpur,Cash,Completed
+ORD1165,21-03-2026,CUST111,Omkar More,Bookshelf,Furniture,3,6054.63,18163.89,Pune,UPI,Completed
+ORD1166,21-01-2026,CUST109,Akash Shinde,Headphones,Electronics,5,2274.88,11374.4,Navi Mumbai,Cash,Cancelled
+ORD1167,13-07-2026,CUST117,Sneha Kulkarni,Bookshelf,Furniture,4,6205.12,24820.48,Thane,Cash,Completed
+ORD1168,20-06-2026,CUST110,Ananya Patil,Mouse,Electronics,5,897.59,4487.95,Nagpur,Cash,Cancelled
+ORD1169,31-08-2026,CUST107,Vivek Joshi,Laptop,Electronics,1,42339.81,42339.81,Aurangabad,Debit Card,Completed
+ORD1170,21-04-2026,CUST106,Vivek Joshi,Smartphone,Electronics,1,27985.36,27985.36,Navi Mumbai,Net Banking,Returned
+ORD1171,21-06-2026,CUST112,Rohan Deshmukh,Keyboard,Electronics,5,1821.14,9105.7,Navi Mumbai,UPI,Completed
+ORD1172,09-08-2026,CUST111,Omkar More,Laptop,Electronics,4,48790.46,195161.84,Navi Mumbai,Net Banking,Completed
+ORD1173,14-04-2026,CUST101,Karan Mehta,Water Bottle,Accessories,4,670.53,2682.12,Nashik,Net Banking,Completed
+ORD1174,05-08-2026,CUST104,Neha Pawar,T-Shirt,Fashion,3,825.86,2477.58,Navi Mumbai,Net Banking,Completed
+ORD1175,21-03-2026,CUST111,Neha Pawar,Notebook,Stationery,1,117.5,117.5,Thane,Credit Card,Completed
+ORD1176,19-02-2026,CUST112,Isha Gupta,Notebook,Stationery,1,120.73,120.73,Nashik,Credit Card,Completed
+ORD1177,04-06-2026,CUST105,Rohan Deshmukh,Headphones,Electronics,3,2348.64,7045.92,Nashik,Cash,Completed
+ORD1178,25-04-2026,CUST119,Tanvi Shah,Shoes,Fashion,5,3366.32,16831.6,Thane,Debit Card,Completed
+ORD1179,11-06-2026,CUST110,Rahul Jadhav,Bookshelf,Furniture,1,6459.6,6459.6,Mumbai,Debit Card,Cancelled
+ORD1180,10-01-2026,CUST102,Isha Gupta,Smartphone,Electronics,3,27785.76,83357.28,Aurangabad,UPI,Returned
+ORD1181,10-05-2026,CUST113,Akash Shinde,T-Shirt,Fashion,1,920.7,920.7,Mumbai,Cash,Cancelled
+ORD1182,02-05-2026,CUST117,Vivek Joshi,Backpack,Accessories,2,1735.75,3471.5,Mumbai,Cash,Completed
+ORD1183,22-01-2026,CUST117,Priya Shah,Shoes,Fashion,3,3508.73,10526.19,Mumbai,Credit Card,Returned
+ORD1184,06-06-2026,CUST106,Isha Gupta,Bookshelf,Furniture,4,6531.29,26125.16,Thane,Debit Card,Completed
+ORD1185,14-01-2026,CUST111,Rohan Deshmukh,Desk,Furniture,3,12429.35,37288.05,Thane,UPI,Cancelled
+ORD1186,05-07-2026,CUST120,Vivek Joshi,Backpack,Accessories,4,1722.29,6889.16,Thane,UPI,Cancelled
+ORD1187,21-03-2026,CUST113,Vivek Joshi,Backpack,Accessories,2,1950.03,3900.06,Pune,Debit Card,Cancelled
+ORD1188,21-06-2026,CUST117,Rohan Deshmukh,Desk,Furniture,3,12751.64,38254.92,Navi Mumbai,Net Banking,Completed
+ORD1189,01-09-2026,CUST107,Karan Mehta,Laptop,Electronics,3,43279.79,129839.37,Kolhapur,Credit Card,Completed
+ORD1190,05-08-2026,CUST104,Nikhil Pawar,Headphones,Electronics,2,2288.58,4577.16,Mumbai,Debit Card,Cancelled
+ORD1191,11-02-2026,CUST106,Tanvi Shah,Headphones,Electronics,5,2438.36,12191.8,Nashik,Cash,Completed
+ORD1192,02-03-2026,CUST115,Tanvi Shah,Desk,Furniture,3,12423.27,37269.81,Aurangabad,Cash,Completed
+ORD1193,27-07-2026,CUST116,Aditya More,Notebook,Stationery,2,115.43,230.86,Thane,Net Banking,Completed
+ORD1194,09-05-2026,CUST117,Riya Desai,Bookshelf,Furniture,3,6861.56,20584.68,Nashik,Credit Card,Cancelled
+ORD1195,04-05-2026,CUST112,Kavya Joshi,Headphones,Electronics,3,2276.09,6828.27,Pune,Net Banking,Completed
+ORD1196,11-03-2026,CUST115,Nikhil Pawar,Mouse,Electronics,1,947.36,947.36,Nashik,Cash,Completed
+ORD1197,15-08-2026,CUST112,Aarav Sharma,Jeans,Fashion,2,2339.35,4678.7,Navi Mumbai,UPI,Completed
+ORD1198,21-01-2026,CUST112,Neha Pawar,Notebook,Stationery,3,113.66,340.98,Mumbai,Debit Card,Completed
+ORD1199,05-02-2026,CUST102,Pooja Chavan,T-Shirt,Fashion,3,952.45,2857.35,Kolhapur,Credit Card,Returned
+ORD1200,20-08-2026,CUST103,Aarav Sharma,Bookshelf,Furniture,4,6649.95,26599.8,Aurangabad,Credit Card,Completed
+ORD1201,29-01-2026,CUST110,Neha Pawar,Notebook,Stationery,5,120.67,603.35,Aurangabad,UPI,Completed
+ORD1202,09-06-2026,CUST115,Rohan Deshmukh,Keyboard,Electronics,4,1850.02,7400.08,Pune,Cash,Cancelled
+ORD1203,28-05-2026,CUST108,Vivek Joshi,Notebook,Stationery,1,123.17,123.17,Aurangabad,Cash,Completed
+ORD1204,17-04-2026,CUST106,Rohan Deshmukh,Pen Set,Stationery,3,237.03,711.09,Thane,UPI,Cancelled
+ORD1205,10-05-2026,CUST118,Aarav Sharma,Notebook,Stationery,5,126.87,634.35,Navi Mumbai,Cash,Completed
+ORD1206,06-03-2026,CUST101,Isha Gupta,Backpack,Accessories,4,1973.17,7892.68,Pune,Debit Card,Completed
+ORD1207,08-07-2026,CUST111,Vivek Joshi,Water Bottle,Accessories,1,738.01,738.01,Mumbai,Debit Card,Cancelled
+ORD1208,25-06-2026,CUST115,Mansi Kulkarni,Office Chair,Furniture,2,9061.65,18123.3,Nashik,Credit Card,Completed
+ORD1209,21-02-2026,CUST102,Aditya More,Water Bottle,Accessories,4,635.18,2540.72,Mumbai,Debit Card,Completed
+ORD1210,20-05-2026,CUST116,Rahul Jadhav,Notebook,Stationery,4,131.74,526.96,Mumbai,Credit Card,Completed
+ORD1211,26-03-2026,CUST109,Sneha Kulkarni,Office Chair,Furniture,1,9121.86,9121.86,Thane,Cash,Completed
+ORD1212,09-04-2026,CUST111,Priya Shah,Water Bottle,Accessories,4,755.25,3021,Kolhapur,Cash,Completed
+ORD1213,22-01-2026,CUST114,Rohan Deshmukh,Jeans,Fashion,5,2097.36,10486.8,Navi Mumbai,Net Banking,Completed
+ORD1214,21-01-2026,CUST111,Pooja Chavan,Notebook,Stationery,3,115.71,347.13,Aurangabad,Cash,Cancelled
+ORD1215,24-04-2026,CUST112,Akash Shinde,Water Bottle,Accessories,4,653.33,2613.32,Mumbai,Debit Card,Cancelled
+ORD1216,22-07-2026,CUST102,Rohan Deshmukh,Desk,Furniture,3,12334.73,37004.19,Navi Mumbai,Debit Card,Cancelled
+ORD1217,06-02-2026,CUST120,Akash Shinde,Shoes,Fashion,2,3489.79,6979.58,Mumbai,Credit Card,Completed
+ORD1218,01-09-2026,CUST119,Ananya Patil,Keyboard,Electronics,3,1750.37,5251.11,Nashik,Cash,Completed
+ORD1219,27-05-2026,CUST105,Nikhil Pawar,Office Chair,Furniture,4,8947.24,35788.96,Thane,Cash,Completed
+ORD1220,30-01-2026,CUST101,Priya Shah,Backpack,Accessories,3,1709.86,5129.58,Kolhapur,Net Banking,Completed
+ORD1221,18-07-2026,CUST109,Akash Shinde,Jeans,Fashion,5,2031.81,10159.05,Nagpur,Net Banking,Completed
+ORD1222,04-02-2026,CUST103,Akash Shinde,Water Bottle,Accessories,4,658.02,2632.08,Nashik,Cash,Completed
+ORD1223,01-07-2026,CUST103,Kavya Joshi,Shoes,Fashion,3,3307.42,9922.26,Aurangabad,Debit Card,Completed
+ORD1224,11-05-2026,CUST108,Sneha Kulkarni,Water Bottle,Accessories,2,741.12,1482.24,Nagpur,Credit Card,Completed
+ORD1225,22-05-2026,CUST119,Isha Gupta,Shoes,Fashion,4,2896.82,11587.28,Kolhapur,Net Banking,Completed
+ORD1226,12-04-2026,CUST116,Nikhil Pawar,Pen Set,Stationery,1,228.29,228.29,Navi Mumbai,Cash,Cancelled
+ORD1227,14-06-2026,CUST103,Akash Shinde,Smartphone,Electronics,2,30645.33,61290.66,Kolhapur,Net Banking,Completed
+ORD1228,16-02-2026,CUST105,Riya Desai,Headphones,Electronics,5,2569.9,12849.5,Mumbai,UPI,Cancelled
+ORD1229,24-03-2026,CUST108,Isha Gupta,Headphones,Electronics,3,2332.33,6996.99,Aurangabad,UPI,Completed
+ORD1230,10-06-2026,CUST110,Tanvi Shah,Keyboard,Electronics,5,1718.8,8594,Pune,Net Banking,Returned
+ORD1231,09-02-2026,CUST106,Tanvi Shah,Headphones,Electronics,5,2720.8,13604,Thane,Net Banking,Completed
+ORD1232,31-08-2026,CUST119,Rahul Jadhav,T-Shirt,Fashion,1,824.62,824.62,Nagpur,Net Banking,Completed
+ORD1233,10-06-2026,CUST118,Pooja Chavan,Pen Set,Stationery,1,249.9,249.9,Aurangabad,Cash,Completed
+ORD1234,19-01-2026,CUST102,Priya Shah,Shoes,Fashion,4,3070.36,12281.44,Kolhapur,Cash,Completed
+ORD1235,06-02-2026,CUST111,Karan Mehta,Bookshelf,Furniture,2,6292.25,12584.5,Thane,Cash,Completed
+ORD1236,28-01-2026,CUST111,Neha Pawar,Shoes,Fashion,3,3209.59,9628.77,Kolhapur,UPI,Completed
+ORD1237,13-01-2026,CUST110,Siddharth Patil,Bookshelf,Furniture,2,6033.14,12066.28,Navi Mumbai,Credit Card,Completed
+ORD1238,04-07-2026,CUST111,Aditya More,T-Shirt,Fashion,3,978.08,2934.24,Nashik,Cash,Cancelled
+ORD1239,08-05-2026,CUST101,Rohan Deshmukh,Bookshelf,Furniture,4,6992.8,27971.2,Navi Mumbai,Net Banking,Completed
+ORD1240,13-01-2026,CUST102,Pooja Chavan,Keyboard,Electronics,2,1830,3660,Kolhapur,Net Banking,Returned
+ORD1241,03-01-2026,CUST104,Riya Desai,Backpack,Accessories,4,1722.87,6891.48,Nashik,Debit Card,Returned
+ORD1242,13-04-2026,CUST102,Omkar More,Office Chair,Furniture,4,8272.09,33088.36,Nagpur,Debit Card,Cancelled
+ORD1243,26-04-2026,CUST118,Rahul Jadhav,Mouse,Electronics,1,879.54,879.54,Pune,Credit Card,Completed
+ORD1244,28-03-2026,CUST118,Isha Gupta,Desk,Furniture,3,12707.75,38123.25,Nashik,Credit Card,Cancelled
+ORD1245,12-01-2026,CUST102,Vivek Joshi,Notebook,Stationery,4,120,480,Thane,Cash,Cancelled
+ORD1246,12-05-2026,CUST105,Karan Mehta,Bookshelf,Furniture,2,6638.14,13276.28,Thane,Credit Card,Completed
+ORD1247,10-05-2026,CUST117,Kavya Joshi,Pen Set,Stationery,3,254.69,764.07,Kolhapur,Net Banking,Completed
+ORD1248,22-06-2026,CUST104,Riya Desai,Bookshelf,Furniture,1,6328.87,6328.87,Aurangabad,UPI,Cancelled
+ORD1249,20-07-2026,CUST119,Omkar More,Bookshelf,Furniture,3,7107.19,21321.57,Nagpur,UPI,Cancelled
+ORD1250,04-07-2026,CUST120,Siddharth Patil,Bookshelf,Furniture,2,6531.5,13063,Nashik,Credit Card,Completed
+ORD1251,23-04-2026,CUST111,Riya Desai,Pen Set,Stationery,1,234.54,234.54,Nashik,Cash,Returned
+ORD1252,06-06-2026,CUST116,Ananya Patil,Keyboard,Electronics,4,1800.66,7202.64,Nashik,Net Banking,Completed
+ORD1253,03-05-2026,CUST117,Siddharth Patil,Notebook,Stationery,3,131.95,395.85,Thane,Credit Card,Completed
+ORD1254,01-04-2026,CUST109,Tanvi Shah,Jeans,Fashion,5,2130.62,10653.1,Kolhapur,Credit Card,Completed
+ORD1255,30-08-2026,CUST110,Pooja Chavan,Mouse,Electronics,5,863.73,4318.65,Nagpur,Cash,Completed
+ORD1256,28-08-2026,CUST109,Pooja Chavan,Bookshelf,Furniture,3,6578.63,19735.89,Pune,Net Banking,Returned
+ORD1257,12-04-2026,CUST112,Vivek Joshi,Notebook,Stationery,4,129.5,518,Aurangabad,UPI,Completed
+ORD1258,24-04-2026,CUST109,Mansi Kulkarni,Water Bottle,Accessories,1,678.49,678.49,Nagpur,Credit Card,Cancelled
+ORD1259,05-02-2026,CUST104,Tanvi Shah,Mouse,Electronics,5,935.31,4676.55,Nagpur,Credit Card,Completed
+ORD1260,01-03-2026,CUST102,Sneha Kulkarni,Backpack,Accessories,5,1701.24,8506.2,Navi Mumbai,Debit Card,Returned
+ORD1261,05-02-2026,CUST101,Kavya Joshi,Bookshelf,Furniture,1,6735.55,6735.55,Nashik,Cash,Returned
+ORD1262,21-02-2026,CUST110,Karan Mehta,Jeans,Fashion,4,2190.08,8760.32,Aurangabad,UPI,Completed
+ORD1263,09-07-2026,CUST102,Priya Shah,Backpack,Accessories,5,1703.6,8518,Navi Mumbai,Credit Card,Completed
+ORD1264,17-02-2026,CUST110,Ananya Patil,T-Shirt,Fashion,4,951.83,3807.32,Mumbai,Debit Card,Cancelled
+ORD1265,27-03-2026,CUST110,Akash Shinde,Pen Set,Stationery,1,271.42,271.42,Kolhapur,Credit Card,Cancelled
+ORD1266,29-01-2026,CUST111,Priya Shah,Bookshelf,Furniture,3,6100.65,18301.95,Kolhapur,Debit Card,Returned
+ORD1267,22-07-2026,CUST110,Omkar More,Headphones,Electronics,1,2618.31,2618.31,Nagpur,Credit Card,Cancelled
+ORD1268,12-05-2026,CUST111,Rohan Deshmukh,T-Shirt,Fashion,4,958.86,3835.44,Navi Mumbai,UPI,Completed
+ORD1269,05-03-2026,CUST101,Rahul Jadhav,Headphones,Electronics,4,2411.8,9647.2,Navi Mumbai,Credit Card,Completed
+ORD1270,19-03-2026,CUST119,Omkar More,Shoes,Fashion,3,3490.58,10471.74,Mumbai,Debit Card,Returned
+ORD1271,31-01-2026,CUST115,Pooja Chavan,Office Chair,Furniture,2,7755.61,15511.22,Nashik,Cash,Returned
+ORD1272,13-06-2026,CUST110,Isha Gupta,Notebook,Stationery,3,124.57,373.71,Nagpur,Credit Card,Completed
+ORD1273,05-06-2026,CUST112,Riya Desai,Bookshelf,Furniture,2,6441.47,12882.94,Kolhapur,Net Banking,Returned
+ORD1274,24-06-2026,CUST120,Rohan Deshmukh,T-Shirt,Fashion,2,947.13,1894.26,Kolhapur,Net Banking,Returned
+ORD1275,29-01-2026,CUST102,Kavya Joshi,Office Chair,Furniture,1,9209.32,9209.32,Nagpur,Net Banking,Cancelled
+ORD1276,14-05-2026,CUST115,Sneha Kulkarni,Headphones,Electronics,2,2414.06,4828.12,Nagpur,Net Banking,Completed
+ORD1277,15-01-2026,CUST115,Vivek Joshi,Smartphone,Electronics,5,27694.7,138473.5,Navi Mumbai,Cash,Cancelled
+ORD1278,26-07-2026,CUST110,Aarav Sharma,Laptop,Electronics,5,44661.4,223307,Navi Mumbai,Debit Card,Completed
+ORD1279,12-01-2026,CUST114,Isha Gupta,Water Bottle,Accessories,2,710.96,1421.92,Pune,Net Banking,Completed
+ORD1280,01-05-2026,CUST102,Pooja Chavan,Jeans,Fashion,1,2413.9,2413.9,Navi Mumbai,Credit Card,Completed
+ORD1281,17-08-2026,CUST113,Akash Shinde,Shoes,Fashion,4,3119.65,12478.6,Navi Mumbai,Cash,Completed
+ORD1282,09-08-2026,CUST112,Sneha Kulkarni,Backpack,Accessories,5,1667.88,8339.4,Nashik,Net Banking,Completed
+ORD1283,27-02-2026,CUST101,Aarav Sharma,Notebook,Stationery,2,125.47,250.94,Aurangabad,Cash,Returned
+ORD1284,08-04-2026,CUST108,Neha Pawar,Water Bottle,Accessories,5,689.38,3446.9,Kolhapur,Debit Card,Completed
+ORD1285,05-07-2026,CUST104,Ananya Patil,Mouse,Electronics,2,978.73,1957.46,Navi Mumbai,Net Banking,Completed
+ORD1286,02-06-2026,CUST102,Akash Shinde,Keyboard,Electronics,2,1644.22,3288.44,Mumbai,Credit Card,Returned
+ORD1287,19-05-2026,CUST107,Ananya Patil,Laptop,Electronics,4,44450.67,177802.68,Nashik,Net Banking,Completed
+ORD1288,03-06-2026,CUST111,Neha Pawar,Keyboard,Electronics,5,1734.81,8674.05,Aurangabad,Credit Card,Returned
+ORD1289,12-03-2026,CUST102,Kavya Joshi,Notebook,Stationery,2,117.93,235.86,Nashik,Cash,Cancelled
+ORD1290,30-08-2026,CUST113,Nikhil Pawar,Bookshelf,Furniture,1,7113.98,7113.98,Thane,Cash,Completed
+ORD1291,13-07-2026,CUST118,Mansi Kulkarni,Headphones,Electronics,3,2438.23,7314.69,Nagpur,Credit Card,Completed
+ORD1292,23-08-2026,CUST102,Kavya Joshi,T-Shirt,Fashion,2,955.04,1910.08,Navi Mumbai,Cash,Cancelled
+ORD1293,07-03-2026,CUST107,Karan Mehta,Notebook,Stationery,2,117.32,234.64,Pune,Cash,Completed
+ORD1294,18-02-2026,CUST102,Rahul Jadhav,Smartphone,Electronics,5,29257.67,146288.35,Navi Mumbai,Net Banking,Cancelled
+ORD1295,14-07-2026,CUST119,Kavya Joshi,Laptop,Electronics,1,42193.47,42193.47,Nagpur,Cash,Completed
+ORD1296,21-08-2026,CUST101,Aditya More,T-Shirt,Fashion,3,864.57,2593.71,Nagpur,UPI,Returned
+ORD1297,28-06-2026,CUST120,Aditya More,Shoes,Fashion,4,3465.24,13860.96,Navi Mumbai,Credit Card,Cancelled
+ORD1298,17-05-2026,CUST112,Pooja Chavan,Office Chair,Furniture,3,8297.12,24891.36,Aurangabad,Debit Card,Cancelled
+ORD1299,25-07-2026,CUST116,Karan Mehta,Jeans,Fashion,4,2185.04,8740.16,Nagpur,Debit Card,Completed
+ORD1300,26-02-2026,CUST105,Aarav Sharma,Desk,Furniture,1,12150.06,12150.06,Aurangabad,Net Banking,Cancelled
